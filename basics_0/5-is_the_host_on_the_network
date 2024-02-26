@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Write a Bash script that pings an IP address passed as an argument
+# Write a Bash script that pings an IP address passed as an argument
 if [[ -z "$1" ]]
 then 
     echo "Usage: 5-is_the_host_on_the_network {IP_ADDRESS}"
